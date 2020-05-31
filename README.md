@@ -8,3 +8,6 @@
 
 ## React
 * [React: Rethinking best practices By Pete Hunt](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+
+## Miscellaneous
+* [The Value of Values with Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
