@@ -8,6 +8,7 @@
 
 ## React
 * [React: Rethinking best practices By Pete Hunt](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+* [React Today and Tomorrow and 90% Cleaner React With Hooks by Dan Abramov](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 
 ## Miscellaneous
 * [The Value of Values with Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
