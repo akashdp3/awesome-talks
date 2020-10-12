@@ -10,6 +10,10 @@
 * [React: Rethinking best practices By Pete Hunt](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * [React Today and Tomorrow and 90% Cleaner React With Hooks by Dan Abramov](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 * [Performance Anxiety with React: Track and increase speed of your apps](https://www.youtube.com/watch?v=vDXF7iGEGzo)
+* [Refactoring React: Which component pattern can improve your codebase?](https://www.youtube.com/watch?v=2Dw8gA60d_k)
 
 ## Miscellaneous
 * [The Value of Values with Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+
+## Blogs
+
