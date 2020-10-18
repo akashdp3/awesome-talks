@@ -23,3 +23,4 @@ I collect awesome talks and blogs here. Feel free to add anything you found amaz
 - [The Value of Values by Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
 ## Blogs
+- [An Honest Review of Gatsby by David Cramer](https://cra.mr/an-honest-review-of-gatsby/?utm_source=tinyreact&utm_medium=email)
